@@ -1,8 +1,6 @@
 ## Hola, me llamo María Isabel Muñoz y te doy la bienvenida a mi repositorio de Github 👋
 
-<!--
-
-- 🔭 Actualmente estoy trabajando como profesora de Informática en el IES Enrique Tierno Galván de Madrid.
+ 🔭 Actualmente estoy trabajando como profesora de Informática en el IES Enrique Tierno Galván de Madrid.
 - 🌱 Estoy aprendiendo sobre Git con Github y Dockers
 - 👯 Busco colaboradores para preparar a los alumnos en concursos.
 - 🤔 .
@@ -10,4 +8,4 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
